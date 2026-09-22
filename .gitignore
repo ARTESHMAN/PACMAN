@@ -1,0 +1,4 @@
+pacman
+*.exe
+*.o
+.vscode/
