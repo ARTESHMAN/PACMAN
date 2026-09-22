@@ -129,5 +129,3 @@ gcc main.c -lraylib -framework OpenGL -framework Cocoa -framework IOKit -framewo
 ## Author & Academic Notice
 
 Developed as a Base Programming (BP) project at **Amirkabir University of Technology (Tehran Polytechnic)**. Provided for educational, reference, and demonstration purposes.
-
-```
